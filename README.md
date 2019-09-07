@@ -3,7 +3,7 @@ Notepad With Spell Checker
 Notepad-esque application with built-in spell checker. 
 
 Users:
-Please download the application here [link](https://drive.google.com/file/d/1Gbv3VpEs-wDOPmEMtckjAy9OP8DakLgC/view) and extract to a directory
+Please download the application here [[link]](https://drive.google.com/file/d/1Gbv3VpEs-wDOPmEMtckjAy9OP8DakLgC/view) and extract to a directory
 Open the .jar file to open the application
 
 Prerequisites:
